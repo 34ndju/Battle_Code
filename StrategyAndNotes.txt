@@ -5,9 +5,9 @@ git push
 git pull
 
 Strategy
-Tank defense Gardening
-Aggressive take out archons then gardners
-firing squad
+1. Tank defense Gardening
+2. Aggressive take out archons then gardners
+3. firing squad
 
 scouts find targets
 	report using broadcast
