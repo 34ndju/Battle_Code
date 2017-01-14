@@ -1,0 +1,36 @@
+git add [FILE NAME of -am]
+git commit -am “[NOTES]”
+git push
+
+git pull
+
+Strategy
+Tank defense Gardening
+Aggressive take out archons then gardners
+firing squad
+
+scouts find targets
+	report using broadcast
+		use a few channels to store different targets
+
+
+Try move replace degrees with radians
+
+https://en.wikipedia.org/wiki/Pathfinding
+
+if your bullet disapears from vision beofre going out of vision range, then it hit sometihng 
+
+Methods to write:
+
+caculate bullet shooter location
+move towards location
+move towards and find player of given type
+dodge bullet(s)
+if enemy cannot dodge fire alot.
+
+Notes:
+ Clock.getBytecodeLeft()
+scouts may be able to jump over bullets but bullets not over scouts
+macro and micro combat
+circle tree wall, gardners go in circle around fill gaps and watering
+if two teamates can shoot the same robot, they shoudl try and kill that one faster
