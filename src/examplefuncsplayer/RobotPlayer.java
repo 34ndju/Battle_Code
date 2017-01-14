@@ -1,6 +1,6 @@
 package examplefuncsplayer;
 import battlecode.common.*;
-
+//testtt
 public strictfp class RobotPlayer {
     static RobotController rc;
     @SuppressWarnings("unused")
